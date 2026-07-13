@@ -69,7 +69,7 @@
 
 ### 📌 Featured Project
 
-**[Retail Sales Performance & Customer Behaviour Analytics Dashboard](https://github.com/YOUR-USERNAME/YOUR-REPO)**
+**[Retail Sales Performance & Customer Behaviour Analytics Dashboard](https://github.com/ranjith12351/YOUR-REPO)**
 Cleaned and analyzed retail sales and customer data using SQL and Python, then built interactive dashboards to track sales performance, customer segments, and key business metrics — turning raw data into decisions.
 
 > *(Add more projects here as you build them — each with a one-line result-oriented description.)*
@@ -99,12 +99,12 @@ Relevant Coursework: Data Structures, OOP, Operating Systems, DBMS, Software Eng
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjith12351&show_icons=true&theme=default&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjith12351&theme=default" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith12351&layout=compact&theme=default" height="165" />
 </p>
 
 ---
