@@ -99,13 +99,23 @@ Relevant Coursework: Data Structures, OOP, Operating Systems, DBMS, Software Eng
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjith12351&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjith12351&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="165" />
   <img src="https://streak-stats.demolab.com/?user=ranjith12351&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith12351&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith12351&layout=compact&theme=tokyonight&cache_seconds=1800" height="165" />
 </p>
+
+<!--
+  NOTE on broken stats images (see message below the file for details):
+  The shared public instance at github-readme-stats.vercel.app is frequently
+  rate-limited or paused, which breaks these badges for everyone using the
+  default URL, not just this profile. If they're still broken after a retry,
+  deploy your own free instance on Vercel (fork anuraghazra/github-readme-stats
+  → "Deploy" button → add your GITHUB_TOKEN) and swap the domain above for
+  your own *.vercel.app URL.
+-->
 
 ---
 
