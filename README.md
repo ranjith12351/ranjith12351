@@ -94,15 +94,17 @@ Relevant Coursework: Data Structures, OOP, Operating Systems, DBMS, Software Eng
 
 ---
 
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ranjith12351&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=ranjith12351&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjith12351&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ranjith12351&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranjith12351&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=ranjith12351&theme=tokyonight" height="150" />
 </p>
 
 ---
