@@ -69,7 +69,7 @@
 
 ### 📌 Featured Project
 
-**[Retail Sales Performance & Customer Behaviour Analytics Dashboard](https://github.com/ranjith12351/YOUR-REPO)**
+**[Retail Sales Performance & Customer Behaviour Analytics Dashboard](git@github.com:ranjith12351/Project-dashbord-1.git)**
 Cleaned and analyzed retail sales and customer data using SQL and Python, then built interactive dashboards to track sales performance, customer segments, and key business metrics — turning raw data into decisions.
 
 > *(Add more projects here as you build them — each with a one-line result-oriented description.)*
