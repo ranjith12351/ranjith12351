@@ -69,8 +69,8 @@
 
 ### 📌 Featured Project
 
-**[Retail Sales Performance & Customer Behaviour Analytics Dashboard](https://github.com/ranjith12351/Project-dashbord-1)**
-Cleaned and analyzed retail sales and customer data using SQL and Python, then built interactive dashboards to track sales performance, customer segments, and key business metrics — turning raw data into decisions.
+* **[Climate Disaster & Infrastructure Risk Analysis](https://github.com/ranjith12351/Climate-Disaster-Infrastructure-Risk-Analysis-.git)**
+  Cleaned, integrated, and analyzed climate disaster, economic loss, and asset vulnerability data across South Asia using SQL and Python, then built interactive multi-page Power BI dashboards to evaluate risk exposure, critical infrastructure damage, and financial impacts — turning complex disaster data into actionable resilience insights.
 
 ---
 
